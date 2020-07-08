@@ -21,7 +21,7 @@
 Para executar o projeto, deixe o emulador aberto android/IOS. Navegue até a pasta do projeto e execute os comandos:
 ```sh
   $  `npm install` ou `yarn install`<br /> # para instalar as dependências
-  $ `react-native run-android` para android `react-native run-android`<br /> # inicializando o package.json
+  $ `react-native run-android` para android `react-native run-android`<br /> # para rodar o projeto no emulador
 ```
 Pronto!!
 
